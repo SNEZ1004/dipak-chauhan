@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 [![Asus Tuf A17](https://img.shields.io/badge/Asus%20Tuf%20A17-inactive?style=flat-square&logo=Asus&logoColor=FFFFFF&labelColor=inactive)](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2022/)
 [![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-CF0000?style=flat-square&logo=Raspberry%20Pi&logoColor=FFFFFF&labelColor=CF0000)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipak-chauhan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dipak-chauhan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
