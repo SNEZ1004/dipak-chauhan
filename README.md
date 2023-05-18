@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/en-us/windows)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/intl/en_in/android-13/)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipak-chauhan&show_icons=true&locale=en" alt="dipak-chauhan" /></p>
+<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipak-chauhan&show_icons=true&locale=en" alt="dipak-chauhan" /></p>-->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipak-chauhan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### 📱 Devices
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
